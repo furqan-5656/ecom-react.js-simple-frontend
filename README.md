@@ -6,4 +6,4 @@ for node-module folder write this command in the visual studio code terminal
 2) npm install react-bootstrap bootstrap
      ///for router or react router dom issue
 3) npm install react-router-dom
-
+4) npm start   // for starting server
